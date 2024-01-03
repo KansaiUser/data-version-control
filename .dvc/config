@@ -1,0 +1,4 @@
+[core]
+    remote = remote_storage
+['remote "remote_storage"']
+    url = /media/sensetime/cbe421fe-1303-4821-9392-a849bfdd00e2/DVC_Remote
